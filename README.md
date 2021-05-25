@@ -1,4 +1,4 @@
-This example shows how to use Ammo.js with TypeScript in Debug and Release modes: [hello-planckjs-webgl10-ts](https://github.com/8Observer8/hello-planckjs-webgl10-ts)
+This example shows how to use Planck.js with TypeScript in Debug and Release modes: [hello-planckjs-webgl10-ts](https://github.com/8Observer8/hello-planckjs-webgl10-ts)
 
 You should install these modules globally:
 
